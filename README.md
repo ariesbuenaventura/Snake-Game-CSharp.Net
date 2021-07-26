@@ -1,2 +1,1 @@
-# Snake-Game-CSharp
-Snake Game CSharp
+Snake Game C#
